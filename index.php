@@ -7,6 +7,7 @@
     <title>Retail Tech — Coming Soon</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
     <style>
         :root {
             --rt-primary: #2669fe;
@@ -83,7 +84,12 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container">
-            <a class="navbar-brand" href="#"><span class="brand-logo">RT</span> Retail Tech</a>
+            <a class="navbar-brand" href="#">
+                <div class="d-flex align-items-center gap-4">
+                    <img src="https://admin.ksky.vn/img/logo.png" alt="" width="80">
+                    <h3 class="fw-bold">KSKY</h3>
+                </div>
+            </a>
         </div>
     </nav>
 
@@ -114,102 +120,40 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-10">
                     <div class="glass p-4 p-md-5 text-center rounded-4">
-                        <span class="badge bg-light text-dark mb-3"><i class="bi bi-tools me-2"></i>Under Construction</span>
-                        <h1 class="display-5 fw-bold mb-2">Giải pháp bán lẻ công nghệ</h1>
-                        <p class="lead mb-4">Trang đang xây — hãy quay lại trong thời gian ngắn nữa. (Thay ảnh nền bằng cách chỉnh giá trị <code>--hero-img</code> ở trên)</p>
-                        <div class="d-flex justify-content-center gap-3 flex-wrap">
+                        <span class="badge bg-light text-dark mb-3"><i class="bi bi-tools me-2"></i>Website đang xây dựng</span>
+                        <h1 class="display-5 fw-bold mb-2">COMING SOON</h1>
+                        <p class="lead mb-4">Hãy quay lại trong thời gian ngắn nữa.</p>
+                        <!-- <div class="d-flex justify-content-center gap-3 flex-wrap">
                             <a href="#cong-trinh" class="btn btn-light"><i class="bi bi-grid-3x3-gap me-2"></i>Công trình</a>
                             <a href="#du-an" class="btn btn-outline-light"><i class="bi bi-kanban me-2"></i>Dự án</a>
                             <a href="#lien-he" class="btn btn-outline-light"><i class="bi bi-telephone me-2"></i>Liên hệ</a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
         </div>
     </header>
-
-    <section id="cong-trinh" class="py-5">
+    <footer class="py-4 text-white-50">
         <div class="container">
-            <h2 class="text-white mb-4">Công trình</h2>
-            <div class="row g-4">
-                <div class="col-md-4">
-                    <div class="card rt">
-                        <div class="icon mb-2"><i class="bi bi-shop"></i></div>
-                        <h5 class="text-white">POS Omni</h5>
-                        <p>Đồng bộ tồn kho & đơn hàng giữa cửa hàng và online.</p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card rt">
-                        <div class="icon mb-2"><i class="bi bi-box-seam"></i></div>
-                        <h5 class="text-white">WMS Lite</h5>
-                        <p>Quản lý kho thông minh, soạn hàng theo wave.</p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card rt">
-                        <div class="icon mb-2"><i class="bi bi-graph-up"></i></div>
-                        <h5 class="text-white">BI & Alerts</h5>
-                        <p>Dashboard realtime & cảnh báo tự động.</p>
-                    </div>
-                </div>
+            <h5 class="text-white fw-bold text-lg mb-3">CÔNG TY TNHH KSKY</h5>
+            <div class="d-flex align-items-center gap-2 mb-1">
+                <span class="material-symbols-outlined text-white" style="font-size: 16px;">domain</span>
+                <p class="mb-0 text-white">Mã số thuế: 0318422194</p>
             </div>
-        </div>
-    </section>
-
-    <section id="du-an" class="py-5">
-        <div class="container">
-            <h2 class="text-white mb-4">Dự án</h2>
-            <div class="row g-4">
-                <div class="col-md-6">
-                    <div class="card rt">
-                        <div class="icon mb-2"><i class="bi bi-rocket"></i></div>
-                        <h5 class="text-white">Beta nội bộ</h5>
-                        <p>POS & WMS chạy thử Q4/2025.</p>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="card rt">
-                        <div class="icon mb-2"><i class="bi bi-people"></i></div>
-                        <h5 class="text-white">Pilot đối tác</h5>
-                        <p>Triển khai cửa hàng mẫu Q1/2026.</p>
-                    </div>
-                </div>
+            <div class="d-flex align-items-center gap-2 mb-1">
+                <span class="material-symbols-outlined text-white" style="font-size: 16px;">phone</span>
+                <a href="tel:0981776666" class="text-white text-decoration-none">0981776666</a>
             </div>
-        </div>
-    </section>
-
-    <section id="lien-he" class="py-5">
-        <div class="container">
-            <h2 class="text-white mb-4">Liên hệ</h2>
-            <div class="row g-4">
-                <div class="col-md-4">
-                    <div class="card rt h-100">
-                        <div class="icon mb-2"><i class="bi bi-telephone"></i></div>
-                        <h5 class="text-white mb-1">Số điện thoại</h5>
-                        <p class="mb-0"><a class="link-light text-decoration-none" href="tel:+84000000000">(+84) 000 000 000</a></p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card rt h-100">
-                        <div class="icon mb-2"><i class="bi bi-envelope"></i></div>
-                        <h5 class="text-white mb-1">Email</h5>
-                        <p class="mb-0"><a class="link-light text-decoration-none" href="mailto:hello@retailtech.example">hello@retailtech.example</a></p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card rt h-100">
-                        <div class="icon mb-2"><i class="bi bi-geo-alt"></i></div>
-                        <h5 class="text-white mb-1">Địa chỉ</h5>
-                        <p class="mb-0">TP. Hồ Chí Minh, Việt Nam</p>
-                    </div>
-                </div>
+            <div class="d-flex align-items-center gap-2 mb-1">
+                <span class="material-symbols-outlined text-white" style="font-size: 16px;">email</span>
+                <a href="mailto:admin@ksky.vn" class="text-white text-decoration-none">admin@ksky.vn</a>
             </div>
+            <div class="d-flex align-items-center gap-2 mb-1">
+                <span class="material-symbols-outlined text-white" style="font-size: 16px;">place</span>
+                <p class="mb-0 text-white">316 Lê Văn Sỹ, Phường 1, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam</p>
+            </div>
+            <p class="mt-3">© 2025 KSKY. All rights reserved.</p>
         </div>
-    </section>
-
-    <footer class="py-4 text-center text-white-50">
-        <div class="container">© 2025 Retail Tech. All rights reserved.</div>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
