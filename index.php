@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>KSKY Tech — Coming Soon</title>
+    <title>Retail Tech — Coming Soon</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
     <style>
@@ -83,31 +83,46 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container">
-            <a class="navbar-brand" href="#">
-                <div class="d-flex align-items-center gap-2">
-                    <img src="https://admin.ksky.vn/img/logo.png" width="100" alt="KSKY LOGO" class="brand-logo">
-                    <p style="font-size:20px; letter-spacing:2px;" class="mb-0 fw-bold">KSKY</p>
-                </div>
-            </a>
+            <a class="navbar-brand" href="#"><span class="brand-logo">RT</span> Retail Tech</a>
         </div>
     </nav>
 
-    <header class="text-center py-5">
+    <header class="hero position-relative text-white">
+        <style>
+            :root {
+                --hero-img: url('PUT_IMAGE_URL_HERE');
+            }
+
+            .hero {
+                min-height: 70vh;
+                display: grid;
+                place-items: center;
+                background:
+                    linear-gradient(180deg, rgba(0, 0, 0, .35), rgba(0, 0, 0, .55)),
+                    var(--hero-img);
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+            }
+
+            .hero .glass {
+                background: rgba(255, 255, 255, 0.12);
+                border: 1px solid rgba(255, 255, 255, 0.25);
+            }
+        </style>
         <div class="container">
-            <h1 class="display-4 fw-bold text-white">Coming Soon</h1>
-            <p class="lead">Giải pháp bán lẻ công nghệ hiện đại — Under Construction</p>
-            <div class="d-flex justify-content-center gap-3 mt-4">
-                <div class="counter">
-                    <h3>00</h3><span>Ngày</span>
-                </div>
-                <div class="counter">
-                    <h3>00</h3><span>Giờ</span>
-                </div>
-                <div class="counter">
-                    <h3>00</h3><span>Phút</span>
-                </div>
-                <div class="counter">
-                    <h3>00</h3><span>Giây</span>
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-10">
+                    <div class="glass p-4 p-md-5 text-center rounded-4">
+                        <span class="badge bg-light text-dark mb-3"><i class="bi bi-tools me-2"></i>Under Construction</span>
+                        <h1 class="display-5 fw-bold mb-2">Giải pháp bán lẻ công nghệ</h1>
+                        <p class="lead mb-4">Trang đang xây — hãy quay lại trong thời gian ngắn nữa. (Thay ảnh nền bằng cách chỉnh giá trị <code>--hero-img</code> ở trên)</p>
+                        <div class="d-flex justify-content-center gap-3 flex-wrap">
+                            <a href="#cong-trinh" class="btn btn-light"><i class="bi bi-grid-3x3-gap me-2"></i>Công trình</a>
+                            <a href="#du-an" class="btn btn-outline-light"><i class="bi bi-kanban me-2"></i>Dự án</a>
+                            <a href="#lien-he" class="btn btn-outline-light"><i class="bi bi-telephone me-2"></i>Liên hệ</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -167,21 +182,29 @@
     <section id="lien-he" class="py-5">
         <div class="container">
             <h2 class="text-white mb-4">Liên hệ</h2>
-            <form class="glass">
-                <div class="mb-3">
-                    <label class="form-label">Họ tên</label>
-                    <input type="text" class="form-control" required>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card rt h-100">
+                        <div class="icon mb-2"><i class="bi bi-telephone"></i></div>
+                        <h5 class="text-white mb-1">Số điện thoại</h5>
+                        <p class="mb-0"><a class="link-light text-decoration-none" href="tel:+84000000000">(+84) 000 000 000</a></p>
+                    </div>
                 </div>
-                <div class="mb-3">
-                    <label class="form-label">Email</label>
-                    <input type="email" class="form-control" required>
+                <div class="col-md-4">
+                    <div class="card rt h-100">
+                        <div class="icon mb-2"><i class="bi bi-envelope"></i></div>
+                        <h5 class="text-white mb-1">Email</h5>
+                        <p class="mb-0"><a class="link-light text-decoration-none" href="mailto:hello@retailtech.example">hello@retailtech.example</a></p>
+                    </div>
                 </div>
-                <div class="mb-3">
-                    <label class="form-label">Lời nhắn</label>
-                    <textarea class="form-control" rows="4"></textarea>
+                <div class="col-md-4">
+                    <div class="card rt h-100">
+                        <div class="icon mb-2"><i class="bi bi-geo-alt"></i></div>
+                        <h5 class="text-white mb-1">Địa chỉ</h5>
+                        <p class="mb-0">TP. Hồ Chí Minh, Việt Nam</p>
+                    </div>
                 </div>
-                <button class="btn btn-primary" type="submit">Gửi</button>
-            </form>
+            </div>
         </div>
     </section>
 
