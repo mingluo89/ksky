@@ -134,7 +134,7 @@
                             </div>
                             <div class="de-flex-col" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="menu_side_area" style="background-size: cover; background-repeat: no-repeat;">
-                                    <a href="https://ksky.vn/get-a-quote.html" class="btn-main btn-line fx-slide hover-white" data-hover="Get a Quote"><span>Get a Quote</span></a>
+                                    <a href="https://ksky.vn/bao-gia.html" class="btn-main btn-line fx-slide hover-white" data-hover="Nhận báo giá"><span>Nhận báo giá</span></a>
                                     <span id="menu-btn"></span>
                                 </div>
 
@@ -250,30 +250,30 @@
                 <div class="container" style="background-size: cover; background-repeat: no-repeat;">
                     <div class="row" style="background-size: cover; background-repeat: no-repeat;">
                         <div class="col-lg-3" style="background-size: cover; background-repeat: no-repeat;">
-                            <h5 class="wow fadeInRight" style="visibility: hidden; animation-name: none;">About Us</h5>
+                            <h5 class="wow fadeInRight" style="visibility: hidden; animation-name: none;">Về chúng tôi</h5>
                         </div>
                         <div class="col-lg-9" style="background-size: cover; background-repeat: no-repeat;">
-                            <h3 class="wow fadeInRight" data-wow-delay=".2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Switch to solar and save money while saving the planet. Our expert team provides clean, reliable energy solutions for homes and businesses. <span class="op-3">Go green, reduce your bills, and enjoy energy independence today!</span></h3>
+                            <h3 class="wow fadeInRight" data-wow-delay=".2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Đội ngũ của chúng tôi mang đến giải pháp về thiết bị - hạ tầng mạng - dịch vụ an toàn, đồng bộ và hiệu quả, giúp doanh nghiệp tiết kiệm chi phí và phát triển bền vững. <span class="op-3">Chọn KSKY để tối ưu hạ tầng và nâng tầm vận hành doanh nghiệp!</span></h3>
 
                             <div class="spacer-single" style="background-size: cover; background-repeat: no-repeat;"></div>
 
                             <div class="row g-4 gx-5" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="col-md-3 col-sm-6" style="background-size: cover; background-repeat: no-repeat;">
                                     <div class="de_count lh-1-6 wow fadeInRight" data-wow-delay=".2s" style="background-size: cover; background-repeat: no-repeat; visibility: hidden; animation-delay: 0.2s; animation-name: none;">
-                                        <h3 class="fs-40 mb-0"><span class="timer" data-to="100" data-speed="3000">0</span>K+</h3>
-                                        Solar Panels Installed
+                                        <h3 class="fs-40 mb-0"><span class="timer" data-to="200" data-speed="3000">0</span>+</h3>
+                                        dự án đã triển khai
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-6" style="background-size: cover; background-repeat: no-repeat;">
                                     <div class="de_count lh-1-6 wow fadeInRight" data-wow-delay=".4s" style="background-size: cover; background-repeat: no-repeat; visibility: hidden; animation-delay: 0.4s; animation-name: none;">
-                                        <h3 class="fs-40 mb-0"><span class="timer" data-to="25" data-speed="3000">0</span>K+</h3>
-                                        Homes Powered
+                                        <h3 class="fs-40 mb-0"><span class="timer" data-to="50" data-speed="3000">0</span>+</h3>
+                                        khách hàng và doanh nghiệp hợp tác lâu dài
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-6" style="background-size: cover; background-repeat: no-repeat;">
                                     <div class="de_count lh-1-6 wow fadeInRight" data-wow-delay=".6s" style="background-size: cover; background-repeat: no-repeat; visibility: hidden; animation-delay: 0.6s; animation-name: none;">
-                                        <h3 class="fs-40 mb-0"><span class="timer" data-to="16" data-speed="3000">0</span>+</h3>
-                                        Years of Solar Expertise
+                                        <h3 class="fs-40 mb-0"><span class="timer" data-to="99" data-speed="3000">0</span>%</h3>
+                                        tỷ lệ uptime hệ thống duy trì ổn định
                                     </div>
                                 </div>
                             </div>
@@ -1067,7 +1067,7 @@
                     <div class="col-lg-4 col-sm-6" style="background-size: cover; background-repeat: no-repeat;">
                         <img src="/demo/images/brand/logo-white.png" class="logo-footer" alt="">
                         <div class="spacer-20" style="background-size: cover; background-repeat: no-repeat;"></div>
-                        <p>At KSKY, we’re committed to delivering reliable, efficient, and sustainable solar energy solutions. From residential installations to commercial systems, we help you harness the power of the sun and reduce your energy bills while protecting the planet.</p>
+                        <p>Công ty TNHH KSKY là đơn vị cung cấp giải pháp công nghệ và hệ thống tích hợp cho doanh nghiệp, từ hạ tầng điện – mạng – thiết bị đến phát triển hệ thống camera an ninh và bảo trì hệ thống. Với đội ngũ giàu kinh nghiệm, KSKY cam kết mang đến giải pháp đồng bộ, an toàn và tối ưu chi phí, giúp doanh nghiệp vận hành hiệu quả và phát triển bền vững.</p>
 
                         <div class="social-icons mb-sm-30" style="background-size: cover; background-repeat: no-repeat;">
                             <a href="/"><i class="fa-brands fa-facebook-f"></i></a>
@@ -1082,28 +1082,38 @@
                         <div class="row" style="background-size: cover; background-repeat: no-repeat;">
                             <div class="col-lg-7 col-sm-6" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="widget" style="background-size: cover; background-repeat: no-repeat;">
-                                    <h5>Our Services</h5>
+                                    <h5>Dịch vụ</h5>
                                     <ul>
-                                        <li><a href="https://ksky.vn/service-single.html">Solar Panel Installation</a></li>
-                                        <li><a href="https://ksky.vn/service-single.html">Solar Panel Maintenance</a></li>
-                                        <li><a href="https://ksky.vn/service-single.html">Custom System Design</a></li>
-                                        <li><a href="https://ksky.vn/service-single.html">Solar Battery Storage</a></li>
-                                        <li><a href="https://ksky.vn/service-single.html">System Monitoring &amp; Reporting</a></li>
-                                        <li><a href="https://ksky.vn/service-single.html">Solar Panel Upgrades</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=dich-vu-bao-tri-may-phat-dien">Dịch vụ bảo trì máy phát điện</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=dich-vu-bao-tri-may-lanh">Dịch vụ bảo trì máy lạnh</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=dich-vu-bao-tri-he-thong-cntt">Dịch vụ bảo trì hệ thống CNTT</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=dich-vu-lap-dat-he-thong-camera">Dịch vụ lắp đặt hệ thống camera</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=dich-vu-cap-quang">Dịch vụ Cáp quang</a></li>
+
+                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-camera-an-ninh">Thiết bị camera an ninh</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-bao-dong-bao-chay">Thiết bị báo động - báo cháy</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-van-phong-gia-dinh">Thiết bị Văn phòng - Gia đình</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-hoi-nghi-truyen-hinh">Thiết bị hội nghị truyền hình</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-vien-thong">Thiết bị viễn thông</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-so-cong-nghe">Thiết bị số - Công nghệ</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-dien-thong-minh">Thiết bị điện thông minh</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-gia-dung">Thiết bị gia dụng</a></li>
+                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-dien-tu">Thiết bị điện tử</a></li>
+
                                     </ul>
                                 </div>
                             </div>
 
                             <div class="col-lg-5 col-sm-6" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="widget" style="background-size: cover; background-repeat: no-repeat;">
-                                    <h5>Company</h5>
+                                    <h5>KSKY</h5>
                                     <ul>
-                                        <li><a href="/">Home</a></li>
-                                        <li><a href="https://ksky.vn/services.html">Our Services</a></li>
-                                        <li><a href="https://ksky.vn/projects.html">Projects</a></li>
-                                        <li><a href="https://ksky.vn/about.html">About Us</a></li>
+                                        <li><a href="/">Trang chủ</a></li>
+                                        <li><a href="https://ksky.vn/services.html">Dịch vụ</a></li>
+                                        <li><a href="https://ksky.vn/projects.html">Dự án</a></li>
+                                        <li><a href="https://ksky.vn/about.html">Về KSKY</a></li>
                                         <li><a href="https://ksky.vn/blog.html">Blog</a></li>
-                                        <li><a href="https://ksky.vn/contact.html">Contact</a></li>
+                                        <li><a href="https://ksky.vn/contact.html">Liên hệ</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1112,24 +1122,24 @@
 
                     <div class="col-lg-3 col-sm-6 order-lg-2 order-sm-1" style="background-size: cover; background-repeat: no-repeat;">
                         <div class="widget" style="background-size: cover; background-repeat: no-repeat;">
-                            <h5>Contact Us</h5>
+                            <h5>Liên hệ</h5>
 
                             <div class="fw-bold text-white d-flex align-items-center" style="background-size: cover; background-repeat: no-repeat;">
-                                <i class="icofont-location-pin me-2 id-color"></i><span>Head Office</span>
+                                <i class="icofont-location-pin me-2 id-color"></i><span>Văn phòng</span>
                             </div>
                             316 Lê Văn Sỹ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, Việt Nam
 
                             <div class="spacer-20" style="background-size: cover; background-repeat: no-repeat;"></div>
 
                             <div class="fw-bold text-white d-flex align-items-center" style="background-size: cover; background-repeat: no-repeat;">
-                                <i class="icofont-phone me-2 id-color"></i><span>Call Us</span>
+                                <i class="icofont-phone me-2 id-color"></i><span>Điện thoại</span>
                             </div>
                             0981776666
 
                             <div class="spacer-20" style="background-size: cover; background-repeat: no-repeat;"></div>
 
                             <div class="fw-bold text-white d-flex align-items-center" style="background-size: cover; background-repeat: no-repeat;">
-                                <i class="icofont-envelope me-2 id-color"></i><span>Email Us</span>
+                                <i class="icofont-envelope me-2 id-color"></i><span>Email</span>
                             </div>
                             admin@ksky.vn
                         </div>
@@ -1146,8 +1156,8 @@
                                     © 2025 - KSKY
                                 </div>
                                 <ul class="menu-simple">
-                                    <li><a href="/">Terms &amp; Conditions</a></li>
-                                    <li><a href="/">Privacy Policy</a></li>
+                                    <li><a href="/">Điều khoản</a></li>
+                                    <li><a href="/">Chính sách bảo mật</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1175,27 +1185,34 @@
 
             <div class="spacer-30-line" style="background-size: cover; background-repeat: no-repeat;"></div>
 
-            <h5>Our Services</h5>
+            <h5>Dịch vụ</h5>
             <ul class="ul-check">
-                <li>Solar Panel Installation</li>
-                <li>Solar Panel Maintenance</li>
-                <li>Custom System Design</li>
-                <li>Solar Battery Storage</li>
-                <li>System Monitoring &amp; Reporting</li>
-                <li>Solar Panel Upgrades</li>
+                <li>Dịch vụ bảo trì máy phát điện</li>
+                <li>Dịch vụ bảo trì máy lạnh</li>
+                <li>Dịch vụ bảo trì hệ thống CNTT</li>
+                <li>Dịch vụ lắp đặt hệ thống camera</li>
+                <li>Dịch vụ Cáp quang</li>
+                <li>Thiết bị camera an ninh</li>
+                <li>Thiết bị báo động - báo cháy</li>
+                <li>Thiết bị Văn phòng - Gia đình</li>
+                <li>Thiết bị hội nghị truyền hình</li>
+                <li>Thiết bị viễn thông</li>
+                <li>Thiết bị số - Công nghệ</li>
+                <li>Thiết bị điện thông minh</li>
+                <li>Thiết bị gia dụng</li>
+                <li>Thiết bị điện tử</li>
             </ul>
 
             <div class="spacer-30-line" style="background-size: cover; background-repeat: no-repeat;"></div>
 
-            <h5>Contact Us</h5>
-            <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-clock-time me-2 op-5"></i>Monday - Friday 08.00 - 18.00</div>
+            <h5>Liên hệ</h5>
             <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-location-pin me-2 op-5"></i>316 Lê Văn Sỹ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, Việt Nam</div>
             <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-envelope me-2 op-5"></i>admin@ksky.vn</div>
 
             <div class="spacer-30-line" style="background-size: cover; background-repeat: no-repeat;"></div>
 
-            <h5>About Us</h5>
-            <p>At KSKY, we’re committed to delivering reliable, efficient, and sustainable solar energy solutions. From residential installations to commercial systems, we help you harness the power of the sun and reduce your energy bills while protecting the planet.</p>
+            <h5>Về chúng tôi</h5>
+            <p>Công ty TNHH KSKY là đơn vị cung cấp giải pháp công nghệ và hệ thống tích hợp cho doanh nghiệp, từ hạ tầng điện – mạng – thiết bị đến phát triển hệ thống camera an ninh và bảo trì hệ thống. Với đội ngũ giàu kinh nghiệm, KSKY cam kết mang đến giải pháp đồng bộ, an toàn và tối ưu chi phí, giúp doanh nghiệp vận hành hiệu quả và phát triển bền vững.</p>
 
             <div class="social-icons" style="background-size: cover; background-repeat: no-repeat;">
                 <a href="/"><i class="fa-brands fa-facebook-f"></i></a>
