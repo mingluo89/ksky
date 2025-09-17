@@ -1400,9 +1400,10 @@ header.smaller.header-dark #mainmenu a {
 
 header.header-mobile {
   position: fixed !important;
-  background: var(--heading-font-color);
+  /* background: transparent !important; */
+  background-image: linear-gradient(to right, #52B0E7, #8BD25D) !important;
   top: 0;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 header.header-mobile .container {
@@ -3408,7 +3409,7 @@ a.btn-main.btn-with-arrow{
 
 .btn-with-arrow:after{
   position: absolute;
-  content: url(../images/ui/arrow-top-right-white.svg);
+  content: url(/demo/images/ui/arrow-top-right-white.svg);
   top:12px;
 }
 
@@ -3418,7 +3419,7 @@ a.btn-main.btn-with-arrow{
 
 .btn-with-arrow:before{
   position: absolute;
-  content: url(../images/ui/arrow-top-right-white.svg);
+  content: url(/demo/images/ui/arrow-top-right-white.svg);
   top:16px;
   left: 8px;
   opacity: 0;
@@ -6282,7 +6283,7 @@ object {
 }
 
 .de-video-overlay.dotted {
-  background: url(../images_02/dotted.webp);
+  background: url(/demo/images_02/dotted.webp);
 }
 
 .video-fixed {
@@ -6828,7 +6829,7 @@ footer .widget{
 
 .widget_recent_post li {
   padding-left: 20px;
-  background: url(../images_02/list-arrow.png) left 2px no-repeat;
+  background: url(/demo/images_02/list-arrow.png) left 2px no-repeat;
   border-bottom: solid 1px #222;
   padding-bottom: 7px;
   margin-bottom: 5px;
@@ -6891,7 +6892,7 @@ footer .widget{
 
 .widget .comments li {
   padding-left: 20px;
-  background: url(../images_02/list-arrow.png) left 2px no-repeat;
+  background: url(/demo/images_02/list-arrow.png) left 2px no-repeat;
   border-bottom: solid 1px var(--bg-dark-3);
   padding-bottom: 7px;
   margin-bottom: 5px;
@@ -7140,7 +7141,7 @@ footer .tiny-border span {
 
 
 .de-step-s1 {
-  overflow: ;
+  overflow: auto;
   position: relative;
   padding: 0 25px;
   height: 100%;
@@ -7240,7 +7241,7 @@ footer .tiny-border span {
 
 
 .owl-carousel.no-hide .owl-stage-outer{
-  overflow: visible; !important;
+  overflow: visible !important;
 }
 
 .grayscale{
@@ -12103,6 +12104,14 @@ img {
     text-align: center;
   }
 
+  .sm-pt0 {
+    padding-top: 0px;
+  }
+
+  .sm-pt5 {
+    padding-top: 5px;
+  }
+
   .sm-pt10 {
     padding-top: 10px;
   }
@@ -12481,7 +12490,7 @@ img {
   header.header-mobile #mainmenu>li>span {
     width: 36px;
     height: 36px;
-    background: url(../images/ui/arrow-down-light.png) center no-repeat;
+    background: url(/demo/images/ui/arrow-down-light.png) center no-repeat;
     position: absolute;
     right: 0;
     margin-top: 10px;
@@ -12490,21 +12499,21 @@ img {
   }
 
   .dark-scheme header.header-mobile #mainmenu>li>span {
-    background: url(../images/ui/arrow-down-light.png) center no-repeat;
+    background: url(/demo/images/ui/arrow-down-light.png) center no-repeat;
   }
 
   header.header-mobile #mainmenu li span.active {
-    background: url(../images/ui/arrow-up-light.png) center no-repeat;
+    background: url(/demo/images/ui/arrow-up-light.png) center no-repeat;
   }
 
   .dark-scheme header.header-mobile #mainmenu li span.active {
-    background: url(../images/ui/arrow-up-light.png) center no-repeat;
+    background: url(/demo/images/ui/arrow-up-light.png) center no-repeat;
   }
 
   header.header-mobile #mainmenu li>ul>li>span {
     width: 36px;
     height: 36px;
-    background: url(../images/ui/arrow-down.png) center no-repeat;
+    background: url(/demo/images/ui/arrow-down.png) center no-repeat;
     position: absolute;
     right: 0;
     margin-top: -45px;
@@ -12513,7 +12522,7 @@ img {
   }
 
   header.header-mobile #mainmenu>li>ul>li>span.active {
-    background: url(../images/ui/arrow-up.png) center no-repeat;
+    background: url(/demo/images/ui/arrow-up.png) center no-repeat;
   }
 
   header.header-mobile #mainmenu li ul li a.menu-item {
@@ -12530,12 +12539,12 @@ img {
 
   header.header-light.header-mobile #mainmenu>li>span,
   header.header-light.header-mobile #mainmenu li>ul>li>span {
-    background: url(../images/ui/arrow-down.png) center no-repeat;
+    background: url(/demo/images/ui/arrow-down.png) center no-repeat;
   }
 
   header.header-light.header-mobile #mainmenu>li>span.active,
   header.header-light.header-mobile #mainmenu li>ul>li>span.active {
-    background: url(../images/ui/arrow-up.png) center no-repeat;
+    background: url(/demo/images/ui/arrow-up.png) center no-repeat;
   }
 
   #mainmenu li ul.mega {

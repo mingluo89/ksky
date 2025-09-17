@@ -22,9 +22,9 @@
     <link href="/demo/lib/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap">
     <link href="/demo/lib/plugins.css" rel="stylesheet" type="text/css">
     <link href="/demo/lib/swiper.css" rel="stylesheet" type="text/css">
-    <link href="/demo/lib/style.css?v=2" rel="stylesheet" type="text/css">
+    <link href="/demo/lib/style.css?v=3" rel="stylesheet" type="text/css">
     <!-- color scheme -->
-    <link id="colors" href="/demo/lib/scheme-1.css" rel="stylesheet" type="text/css">
+    <link id="colors" href="/demo/lib/scheme-1.css?v=3" rel="stylesheet" type="text/css">
 </head>
 
 <body style="background-size: cover; background-repeat: no-repeat;">
@@ -78,7 +78,7 @@
             <div class="container" style="background-size: cover; background-repeat: no-repeat;">
                 <div class="row" style="background-size: cover; background-repeat: no-repeat;">
                     <div class="col-md-12" style="background-size: cover; background-repeat: no-repeat;">
-                        <div class="de-flex sm-pt10" style="background-size: cover; background-repeat: no-repeat;">
+                        <div class="de-flex sm-pt0" style="background-size: cover; background-repeat: no-repeat;">
                             <div class="de-flex-col" style="background-size: cover; background-repeat: no-repeat;">
                                 <!-- logo begin -->
                                 <div id="logo" style="background-size: cover; background-repeat: no-repeat;">
@@ -150,6 +150,7 @@
             </div>
         </header>
         <!-- header end -->
+
         <!-- content begin -->
         <div class="no-bottom no-top" id="content" style="background-size: cover; background-repeat: no-repeat;">
 
@@ -163,8 +164,8 @@
 
                             <div class="col-lg-7 text-center" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="spacer-double" style="background-size: cover; background-repeat: no-repeat;"></div>
-                                <h1>Brightening Tomorrow with Clean Solar Power.</h1>
-                                <p>At KSKY, we’re committed to delivering reliable, efficient, and sustainable solar energy solutions. From residential installations to commercial systems, we help you harness the power of the sun and reduce your energy bills while protecting the planet.</p>
+                                <h2>Giải pháp công nghệ & hệ thống cho doanh nghiệp hiện đại</h2>
+                                <p>Công ty TNHH KSKY là đơn vị cung cấp giải pháp công nghệ và hệ thống tích hợp cho doanh nghiệp, từ hạ tầng điện – mạng – thiết bị đến phát triển hệ thống camera an ninh và bảo trì hệ thống. Với đội ngũ giàu kinh nghiệm, KSKY cam kết mang đến giải pháp đồng bộ, an toàn và tối ưu chi phí, giúp doanh nghiệp vận hành hiệu quả và phát triển bền vững.</p>
                                 <a class="btn-main fx-slide" href="https://ksky.vn/get-a-quote.html" data-hover="Get Started"><span>Get Started</span></a>
                             </div>
 
