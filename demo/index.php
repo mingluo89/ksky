@@ -11,6 +11,13 @@
     <meta content="" name="keywords">
     <meta content="" name="author">
 
+    <!-- Open Graph -->
+    <meta property="og:title" content="KSKY - Giải pháp Công nghệ & Hệ thống cho doanh nghiệp hiện đại">
+    <meta property="og:description" content="KSKY đồng hành số hoá – từ hạ tầng điện & IoT, mạng, máy chủ đến phần mềm web/app và cổng thông tin.">
+    <meta property="og:image" content="https://admin.ksky.vn/img/logo.png">
+    <meta property="og:url" content="https://ksky.vn">
+    <meta property="og:type" content="website">
+
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
     <link href="/demo/lib/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap">
     <link href="/demo/lib/plugins.css" rel="stylesheet" type="text/css">
