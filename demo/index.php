@@ -54,8 +54,8 @@
                         <div class="col-lg-12" style="background-size: cover; background-repeat: no-repeat;">
                             <div class="d-flex justify-content-between xs-hide" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="d-flex" style="background-size: cover; background-repeat: no-repeat;">
-                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-location-pin"></i>316 Lê Văn Sỹ, Phường 1, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam</a></div>
-                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-phone"></i>+1 800 987 654</a></div>
+                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-location-pin"></i>316 Lê Văn Sỹ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, Việt Nam</a></div>
+                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-phone"></i>0981776666</a></div>
                                     <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-envelope"></i>admin@ksky.vn</a></div>
                                 </div>
 
@@ -92,7 +92,7 @@
                             <div class="de-flex-col header-col-mid" style="background-size: cover; background-repeat: no-repeat;">
                                 <!-- mainemenu begin -->
                                 <ul id="mainmenu">
-                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="/">Home</a><span></span>
+                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="/">Trang chủ</a><span></span>
                                         <ul>
                                             <li><a href="/">Homepage 1</a></li>
                                             <li><a href="https://ksky.vn/homepage-2.html">Homepage 2</a></li>
@@ -101,7 +101,7 @@
                                             <li><a href="https://ksky.vn/homepage-5.html">Homepage 5</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="https://ksky.vn/services.html">Services</a><span></span>
+                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="https://ksky.vn/services.html">Dịch vụ</a><span></span>
                                         <ul>
                                             <li><a href="https://ksky.vn/services.html">All Services Style 1</a></li>
                                             <li><a href="https://ksky.vn/services-2.html">All Services Style 2</a></li>
@@ -112,7 +112,7 @@
                                             <li><a href="https://ksky.vn/faq.html">FAQ</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="https://ksky.vn/projects.html">Projects</a><span></span>
+                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="https://ksky.vn/projects.html">Dự án</a><span></span>
                                         <ul>
                                             <li><a href="https://ksky.vn/projects.html">Projects Default</a></li>
                                             <li><a href="https://ksky.vn/projects-slider.html">Projects Slider</a></li>
@@ -120,16 +120,15 @@
                                             <li><a href="https://ksky.vn/project-single.html">Project Details</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="/">Pages</a><span></span>
+                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="/">Thông tin</a><span></span>
                                         <ul>
-                                            <li><a href="https://ksky.vn/about.html">About Us</a></li>
-                                            <li><a href="https://ksky.vn/team.html">Our Team</a></li>
-                                            <li><a href="https://ksky.vn/careers.html">Careers</a></li>
-                                            <li><a href="https://ksky.vn/testimonials.html">Testimonials</a></li>
+                                            <li><a href="https://ksky.vn/about.html">Về chúng tôi</a></li>
+                                            <li><a href="https://ksky.vn/team.html">Đội ngũ</a></li>
+                                            <li><a href="https://ksky.vn/testimonials.html">Khách hàng</a></li>
                                         </ul>
                                     </li>
                                     <li><a class="menu-item" href="https://ksky.vn/blog.html">Blog</a></li>
-                                    <li><a class="menu-item" href="https://ksky.vn/contact.html">Contact</a></li>
+                                    <li><a class="menu-item" href="https://ksky.vn/contact.html">Liên hệ</a></li>
                                 </ul>
                                 <!-- mainmenu end -->
                             </div>
@@ -164,9 +163,8 @@
 
                             <div class="col-lg-7 text-center" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="spacer-double" style="background-size: cover; background-repeat: no-repeat;"></div>
-                                <h1 style="font-size: 32px !important;">Giải pháp công nghệ & hệ thống cho doanh nghiệp hiện đại</h1>
+                                <h1 style="font-size: 34px !important;">Giải pháp công nghệ & hệ thống cho doanh nghiệp hiện đại</h1>
                                 <p>Công ty TNHH KSKY là đơn vị cung cấp giải pháp công nghệ và hệ thống tích hợp cho doanh nghiệp, từ hạ tầng điện – mạng – thiết bị đến phát triển hệ thống camera an ninh và bảo trì hệ thống. Với đội ngũ giàu kinh nghiệm, KSKY cam kết mang đến giải pháp đồng bộ, an toàn và tối ưu chi phí, giúp doanh nghiệp vận hành hiệu quả và phát triển bền vững.</p>
-                                <a class="btn-main fx-slide" href="https://ksky.vn/get-a-quote.html" data-hover="Get Started"><span>Get Started</span></a>
                             </div>
 
                         </div>
@@ -182,9 +180,9 @@
                                             <img src="/demo/lib/cst-1.jpg" class="w-100 rounded-1" alt="">
                                         </div>
                                         <div class="col-lg-6" style="background-size: cover; background-repeat: no-repeat;">
-                                            <h3>When Sustainability Meets Style</h3>
-                                            <p>Clean energy solutions designed to look great and perform efficiently that fits your lifestyle perfectly.</p>
-                                            <a class="btn-main btn-line fx-slide" href="/" data-hover="View Services"><span>View Services</span></a>
+                                            <h3>Khi Công Nghệ Gắn Liền Với Hiệu Quả</h3>
+                                            <p>Giải pháp hạ tầng điện - mạng - IT được KSKY thiết kế để vừa đẹp về thẩm mỹ, vừa tối ưu hiệu suất, phù hợp cho văn phòng, nhà xưởng và chuỗi cửa hàng.</p>
+                                            <a class="btn-main btn-line fx-slide" href="/" data-hover="View Services"><span>Xem dịch vụ</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -197,8 +195,8 @@
                                             <div style="background-size: cover; background-repeat: no-repeat;">
                                                 <div class="relative wow fadeInUp animated" style="background-size: cover; background-repeat: no-repeat; visibility: visible; animation-name: fadeInUp;">
                                                     <img src="/demo/lib/1.png" class="bg-color w-30 p-2 rounded-1 mb-3 wow scaleIn animated" alt="" style="visibility: visible; animation-name: scaleIn;">
-                                                    <h4>Clean Energy for a Future</h4>
-                                                    <p class="mb-0">Choosing solar is a step toward a future powered by clean, renewable, and reliable energy for generations to come.</p>
+                                                    <h4>Giải Pháp Toàn Diện Cho Doanh Nghiệp</h4>
+                                                    <p class="mb-0">Từ hệ thống điện, mạng, camera đến phần mềm và cổng thông tin, KSKY mang đến nền tảng vận hành an toàn, đồng bộ và tiết kiệm chi phí.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -209,8 +207,8 @@
                                             <div class="text-end" style="background-size: cover; background-repeat: no-repeat;">
                                                 <img src="/demo/lib/solar-panel.png" class="w-80px mb-3" alt="">
                                             </div>
-                                            <h5 class="mb-0">100K+</h5>
-                                            <h2 class="mb-0 fs-32">home installed solar panel</h2>
+                                            <h5 class="mb-0">200+</h5>
+                                            <h2 class="mb-0 fs-32">dự án thiết bị, hạ tầng mạng và bảo trì cho doanh nghiệp</h2>
                                         </div>
                                     </div>
                                 </div>
@@ -1025,7 +1023,7 @@
                                             <i class="fs-60 text-dark icon_phone"></i>
                                             <div class="ms-3" style="background-size: cover; background-repeat: no-repeat;">
                                                 <h4 class="mb-0">Need Our Services?</h4>
-                                                <p class="text-dark">Call: +1 800 987 654</p>
+                                                <p class="text-dark">Call: 0981776666</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1119,14 +1117,14 @@
                             <div class="fw-bold text-white d-flex align-items-center" style="background-size: cover; background-repeat: no-repeat;">
                                 <i class="icofont-location-pin me-2 id-color"></i><span>Head Office</span>
                             </div>
-                            316 Lê Văn Sỹ, Phường 1, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam
+                            316 Lê Văn Sỹ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, Việt Nam
 
                             <div class="spacer-20" style="background-size: cover; background-repeat: no-repeat;"></div>
 
                             <div class="fw-bold text-white d-flex align-items-center" style="background-size: cover; background-repeat: no-repeat;">
                                 <i class="icofont-phone me-2 id-color"></i><span>Call Us</span>
                             </div>
-                            +1 800 987 654
+                            0981776666
 
                             <div class="spacer-20" style="background-size: cover; background-repeat: no-repeat;"></div>
 
@@ -1191,7 +1189,7 @@
 
             <h5>Contact Us</h5>
             <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-clock-time me-2 op-5"></i>Monday - Friday 08.00 - 18.00</div>
-            <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-location-pin me-2 op-5"></i>316 Lê Văn Sỹ, Phường 1, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam</div>
+            <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-location-pin me-2 op-5"></i>316 Lê Văn Sỹ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, Việt Nam</div>
             <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-envelope me-2 op-5"></i>admin@ksky.vn</div>
 
             <div class="spacer-30-line" style="background-size: cover; background-repeat: no-repeat;"></div>
