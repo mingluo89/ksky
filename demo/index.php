@@ -163,7 +163,7 @@
 
                             <div class="col-lg-7 text-center" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="spacer-double" style="background-size: cover; background-repeat: no-repeat;"></div>
-                                <h1 style="font-size: 34px !important;">Giải pháp công nghệ & hệ thống cho doanh nghiệp hiện đại</h1>
+                                <h1>Giải pháp công nghệ và hệ thống cho doanh nghiệp hiện đại</h1>
                                 <p>Công ty TNHH KSKY là đơn vị cung cấp giải pháp công nghệ và hệ thống tích hợp cho doanh nghiệp, từ hạ tầng điện – mạng – thiết bị đến phát triển hệ thống camera an ninh và bảo trì hệ thống. Với đội ngũ giàu kinh nghiệm, KSKY cam kết mang đến giải pháp đồng bộ, an toàn và tối ưu chi phí, giúp doanh nghiệp vận hành hiệu quả và phát triển bền vững.</p>
                             </div>
 
