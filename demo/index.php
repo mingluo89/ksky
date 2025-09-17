@@ -22,7 +22,7 @@
     <link href="/demo/lib/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap">
     <link href="/demo/lib/plugins.css" rel="stylesheet" type="text/css">
     <link href="/demo/lib/swiper.css" rel="stylesheet" type="text/css">
-    <link href="/demo/lib/style.css?v=3" rel="stylesheet" type="text/css">
+    <link href="/demo/lib/style.css?v=4" rel="stylesheet" type="text/css">
     <!-- color scheme -->
     <link id="colors" href="/demo/lib/scheme-1.css?v=3" rel="stylesheet" type="text/css">
 </head>
