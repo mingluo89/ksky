@@ -54,9 +54,9 @@
                         <div class="col-lg-12" style="background-size: cover; background-repeat: no-repeat;">
                             <div class="d-flex justify-content-between xs-hide" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="d-flex" style="background-size: cover; background-repeat: no-repeat;">
-                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-location-pin"></i>100 Solar Ave, San Diego, CA</a></div>
+                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-location-pin"></i>316 Lê Văn Sỹ, Phường 1, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam</a></div>
                                     <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-phone"></i>+1 800 987 654</a></div>
-                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-envelope"></i>support@ksky.vn</a></div>
+                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-envelope"></i>admin@ksky.vn</a></div>
                                 </div>
 
                                 <div class="d-flex" style="background-size: cover; background-repeat: no-repeat;">
@@ -1044,7 +1044,7 @@
                                             <i class="fs-60 text-dark icon_mail"></i>
                                             <div class="ms-3" style="background-size: cover; background-repeat: no-repeat;">
                                                 <h4 class="mb-0">Email Us</h4>
-                                                <p class="text-dark">support@ksky.vn</p>
+                                                <p class="text-dark">admin@ksky.vn</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1118,7 +1118,7 @@
                             <div class="fw-bold text-white d-flex align-items-center" style="background-size: cover; background-repeat: no-repeat;">
                                 <i class="icofont-location-pin me-2 id-color"></i><span>Head Office</span>
                             </div>
-                            100 Solar Ave, San Diego, CA
+                            316 Lê Văn Sỹ, Phường 1, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam
 
                             <div class="spacer-20" style="background-size: cover; background-repeat: no-repeat;"></div>
 
@@ -1132,7 +1132,7 @@
                             <div class="fw-bold text-white d-flex align-items-center" style="background-size: cover; background-repeat: no-repeat;">
                                 <i class="icofont-envelope me-2 id-color"></i><span>Email Us</span>
                             </div>
-                            support@ksky.vn
+                            admin@ksky.vn
                         </div>
                     </div>
                 </div>
@@ -1190,8 +1190,8 @@
 
             <h5>Contact Us</h5>
             <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-clock-time me-2 op-5"></i>Monday - Friday 08.00 - 18.00</div>
-            <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-location-pin me-2 op-5"></i>100 Solar Ave, San Diego, CA </div>
-            <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-envelope me-2 op-5"></i>support@ksky.vn</div>
+            <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-location-pin me-2 op-5"></i>316 Lê Văn Sỹ, Phường 1, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam</div>
+            <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-envelope me-2 op-5"></i>admin@ksky.vn</div>
 
             <div class="spacer-30-line" style="background-size: cover; background-repeat: no-repeat;"></div>
 
