@@ -18,6 +18,10 @@
     <meta property="og:url" content="https://ksky.vn">
     <meta property="og:type" content="website">
 
+    <!-- Icofont -->
+    <link rel="stylesheet" href="/demo/assets/css/icofont.min.css">
+
+    <!-- Font awesome -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
     <link href="/demo/lib/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap">
     <link href="/demo/lib/plugins.css" rel="stylesheet" type="text/css">
