@@ -103,13 +103,21 @@
                                     </li>
                                     <li class="menu-item-has-children has-child"><a class="menu-item" href="https://ksky.vn/services.html">Dịch vụ</a><span></span>
                                         <ul>
-                                            <li><a href="https://ksky.vn/services.html">All Services Style 1</a></li>
-                                            <li><a href="https://ksky.vn/services-2.html">All Services Style 2</a></li>
-                                            <li><a href="https://ksky.vn/service-single.html">Service Single</a></li>
-                                            <li><a href="https://ksky.vn/industries.html">Industries We Serve</a></li>
-                                            <li><a href="https://ksky.vn/service-area.html">Service Area</a></li>
-                                            <li><a href="https://ksky.vn/how-it-works.html">How It Works</a></li>
-                                            <li><a href="https://ksky.vn/faq.html">FAQ</a></li>
+                                            <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-may-phat-dien">Bảo trì máy phát điện</a></li>
+                                            <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-may-lanh">Bảo trì máy lạnh</a></li>
+                                            <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-he-thong-cntt">Bảo trì hệ thống CNTT</a></li>
+                                            <li><a href="https://ksky.vn/service?name=dich-vu-lap-dat-he-thong-camera">Hệ thống camera</a></li>
+                                            <li><a href="https://ksky.vn/service?name=dich-vu-cap-quang">Cáp quang</a></li>
+
+                                            <li><a href="https://ksky.vn/service?name=thiet-bi-camera-an-ninh">Thiết bị camera an ninh</a></li>
+                                            <li><a href="https://ksky.vn/service?name=thiet-bi-bao-dong-bao-chay">Thiết bị báo động - báo cháy</a></li>
+                                            <li><a href="https://ksky.vn/service?name=thiet-bi-van-phong-gia-dinh">Thiết bị Văn phòng - Gia đình</a></li>
+                                            <li><a href="https://ksky.vn/service?name=thiet-bi-hoi-nghi-truyen-hinh">Thiết bị hội nghị truyền hình</a></li>
+                                            <li><a href="https://ksky.vn/service?name=thiet-bi-vien-thong">Thiết bị viễn thông</a></li>
+                                            <li><a href="https://ksky.vn/service?name=thiet-bi-so-cong-nghe">Thiết bị số - Công nghệ</a></li>
+                                            <li><a href="https://ksky.vn/service?name=thiet-bi-dien-thong-minh">Thiết bị điện thông minh</a></li>
+                                            <li><a href="https://ksky.vn/service?name=thiet-bi-gia-dung">Thiết bị gia dụng</a></li>
+                                            <li><a href="https://ksky.vn/service?name=thiet-bi-dien-tu">Thiết bị điện tử</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children has-child"><a class="menu-item" href="https://ksky.vn/projects.html">Dự án</a><span></span>
@@ -1084,21 +1092,21 @@
                                 <div class="widget" style="background-size: cover; background-repeat: no-repeat;">
                                     <h5>Dịch vụ</h5>
                                     <ul>
-                                        <li><a href="https://ksky.vn/service.php?name=dich-vu-bao-tri-may-phat-dien">Dịch vụ bảo trì máy phát điện</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=dich-vu-bao-tri-may-lanh">Dịch vụ bảo trì máy lạnh</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=dich-vu-bao-tri-he-thong-cntt">Dịch vụ bảo trì hệ thống CNTT</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=dich-vu-lap-dat-he-thong-camera">Dịch vụ lắp đặt hệ thống camera</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=dich-vu-cap-quang">Dịch vụ Cáp quang</a></li>
+                                        <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-may-phat-dien">Dịch vụ bảo trì máy phát điện</a></li>
+                                        <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-may-lanh">Dịch vụ bảo trì máy lạnh</a></li>
+                                        <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-he-thong-cntt">Dịch vụ bảo trì hệ thống CNTT</a></li>
+                                        <li><a href="https://ksky.vn/service?name=dich-vu-lap-dat-he-thong-camera">Dịch vụ lắp đặt hệ thống camera</a></li>
+                                        <li><a href="https://ksky.vn/service?name=dich-vu-cap-quang">Dịch vụ Cáp quang</a></li>
 
-                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-camera-an-ninh">Thiết bị camera an ninh</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-bao-dong-bao-chay">Thiết bị báo động - báo cháy</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-van-phong-gia-dinh">Thiết bị Văn phòng - Gia đình</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-hoi-nghi-truyen-hinh">Thiết bị hội nghị truyền hình</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-vien-thong">Thiết bị viễn thông</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-so-cong-nghe">Thiết bị số - Công nghệ</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-dien-thong-minh">Thiết bị điện thông minh</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-gia-dung">Thiết bị gia dụng</a></li>
-                                        <li><a href="https://ksky.vn/service.php?name=thiet-bi-dien-tu">Thiết bị điện tử</a></li>
+                                        <li><a href="https://ksky.vn/service?name=thiet-bi-camera-an-ninh">Thiết bị camera an ninh</a></li>
+                                        <li><a href="https://ksky.vn/service?name=thiet-bi-bao-dong-bao-chay">Thiết bị báo động - báo cháy</a></li>
+                                        <li><a href="https://ksky.vn/service?name=thiet-bi-van-phong-gia-dinh">Thiết bị Văn phòng - Gia đình</a></li>
+                                        <li><a href="https://ksky.vn/service?name=thiet-bi-hoi-nghi-truyen-hinh">Thiết bị hội nghị truyền hình</a></li>
+                                        <li><a href="https://ksky.vn/service?name=thiet-bi-vien-thong">Thiết bị viễn thông</a></li>
+                                        <li><a href="https://ksky.vn/service?name=thiet-bi-so-cong-nghe">Thiết bị số - Công nghệ</a></li>
+                                        <li><a href="https://ksky.vn/service?name=thiet-bi-dien-thong-minh">Thiết bị điện thông minh</a></li>
+                                        <li><a href="https://ksky.vn/service?name=thiet-bi-gia-dung">Thiết bị gia dụng</a></li>
+                                        <li><a href="https://ksky.vn/service?name=thiet-bi-dien-tu">Thiết bị điện tử</a></li>
 
                                     </ul>
                                 </div>

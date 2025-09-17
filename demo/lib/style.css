@@ -1401,7 +1401,8 @@ header.smaller.header-dark #mainmenu a {
 header.header-mobile {
   position: fixed !important;
   /* background: transparent !important; */
-  background-image: linear-gradient(to right, #52B0E7, #8BD25D) !important;
+  /* background-image: linear-gradient(to right, #52B0E7, #8BD25D) !important; */
+  background-image: linear-gradient(to top, #313334, #959595) !important;
   top: 0;
   padding-bottom: 5px;
 }
