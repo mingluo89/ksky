@@ -1,20 +1,20 @@
 <!DOCTYPE html>
-<html lang="en" class="lenis">
+<html lang="vn">
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>KSKY</title>
-    <link rel="icon" href="https://admin.ksky.vn/img/logo.png" type="image/gif" sizes="16x16">
+    <link rel="icon" href="/demo/images/brand/logo.png" type="image/gif" sizes="16x16">
 
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="KSKY" name="description">
-    <meta content="" name="keywords">
-    <meta content="" name="author">
+    <meta content="KSKY" name="keywords">
+    <meta content="KSKY" name="author">
 
     <!-- Open Graph -->
     <meta property="og:title" content="KSKY - Giải pháp Công nghệ & Hệ thống cho doanh nghiệp hiện đại">
-    <meta property="og:description" content="KSKY đồng hành số hoá – từ hạ tầng điện & IoT, mạng, máy chủ đến phần mềm web/app và cổng thông tin.">
-    <meta property="og:image" content="https://admin.ksky.vn/img/logo.png">
+    <meta property="og:description" content="KSKY đồng hành số hoá - từ hạ tầng điện & IoT, mạng, máy chủ đến phần mềm web/app và cổng thông tin.">
+    <meta property="og:image" content="/demo/images/brand/logo.png">
     <meta property="og:url" content="https://ksky.vn">
     <meta property="og:type" content="website">
 
@@ -22,7 +22,7 @@
     <link href="/demo/lib/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap">
     <link href="/demo/lib/plugins.css" rel="stylesheet" type="text/css">
     <link href="/demo/lib/swiper.css" rel="stylesheet" type="text/css">
-    <link href="/demo/lib/style.css" rel="stylesheet" type="text/css">
+    <link href="/demo/lib/style.css?v=2" rel="stylesheet" type="text/css">
     <!-- color scheme -->
     <link id="colors" href="/demo/lib/scheme-1.css" rel="stylesheet" type="text/css">
 </head>
@@ -56,7 +56,7 @@
                                 <div class="d-flex" style="background-size: cover; background-repeat: no-repeat;">
                                     <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-location-pin"></i>100 Solar Ave, San Diego, CA</a></div>
                                     <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-phone"></i>+1 800 987 654</a></div>
-                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-envelope"></i>support@solaria.com</a></div>
+                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-envelope"></i>support@ksky.vn</a></div>
                                 </div>
 
                                 <div class="d-flex" style="background-size: cover; background-repeat: no-repeat;">
@@ -83,8 +83,8 @@
                                 <!-- logo begin -->
                                 <div id="logo" style="background-size: cover; background-repeat: no-repeat;">
                                     <a href="/">
-                                        <img class="logo-main" src="/demo/lib/logo-white.webp" alt="">
-                                        <img class="logo-mobile" src="/demo/lib/logo-white.webp" alt="">
+                                        <img class="logo-main" src="/demo/images/brand/logo-white.png" alt="">
+                                        <img class="logo-mobile" src="/demo/images/brand/logo-white.png" alt="">
                                     </a>
                                 </div>
                                 <!-- logo end -->
@@ -164,7 +164,7 @@
                             <div class="col-lg-7 text-center" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="spacer-double" style="background-size: cover; background-repeat: no-repeat;"></div>
                                 <h1>Brightening Tomorrow with Clean Solar Power.</h1>
-                                <p>At Solaria, we’re committed to delivering reliable, efficient, and sustainable solar energy solutions. From residential installations to commercial systems, we help you harness the power of the sun and reduce your energy bills while protecting the planet.</p>
+                                <p>At KSKY, we’re committed to delivering reliable, efficient, and sustainable solar energy solutions. From residential installations to commercial systems, we help you harness the power of the sun and reduce your energy bills while protecting the planet.</p>
                                 <a class="btn-main fx-slide" href="https://ksky.vn/get-a-quote.html" data-hover="Get Started"><span>Get Started</span></a>
                             </div>
 
@@ -594,7 +594,7 @@
                                                                         <img src="/demo/lib/up-right-arrow-white.webp" class="w-10 mb-3 wow scaleIn" alt="" style="visibility: hidden; animation-name: none;">
                                                                     </div>
                                                                     <div class="abs p-40 bottom-0 z-3" style="background-size: cover; background-repeat: no-repeat;">
-                                                                        <h3>Solaria Cares</h3>
+                                                                        <h3>KSKY Cares</h3>
                                                                         <p class="mb-0 hover-mh-60">Community Project</p>
                                                                     </div>
                                                                     <div class="hover-op-05 bg-dark abs w-100 h-100 top-0 start-0 z-2" style="background-size: cover; background-repeat: no-repeat;"></div>
@@ -702,7 +702,7 @@
                                                                         <img src="/demo/images/misc/up-right-arrow-white.webp" class="w-10 mb-3 wow scaleIn" alt="" style="visibility: hidden; animation-name: none;">
                                                                     </div>
                                                                     <div class="abs p-40 bottom-0 z-3" style="background-size: cover; background-repeat: no-repeat;">
-                                                                        <h3>Solaria Cares</h3>
+                                                                        <h3>KSKY Cares</h3>
                                                                         <p class="mb-0 hover-mh-60">Community Project</p>
                                                                     </div>
                                                                     <div class="hover-op-05 bg-dark abs w-100 h-100 top-0 start-0 z-2" style="background-size: cover; background-repeat: no-repeat;"></div>
@@ -1044,7 +1044,7 @@
                                             <i class="fs-60 text-dark icon_mail"></i>
                                             <div class="ms-3" style="background-size: cover; background-repeat: no-repeat;">
                                                 <h4 class="mb-0">Email Us</h4>
-                                                <p class="text-dark">support@solaria.com</p>
+                                                <p class="text-dark">support@ksky.vn</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1066,9 +1066,9 @@
             <div class="container relative z-2" style="background-size: cover; background-repeat: no-repeat;">
                 <div class="row gx-5" style="background-size: cover; background-repeat: no-repeat;">
                     <div class="col-lg-4 col-sm-6" style="background-size: cover; background-repeat: no-repeat;">
-                        <img src="/demo/lib/logo-white.webp" class="logo-footer" alt="">
+                        <img src="/demo/images/brand/logo-white.png" class="logo-footer" alt="">
                         <div class="spacer-20" style="background-size: cover; background-repeat: no-repeat;"></div>
-                        <p>At Solaria, we’re committed to delivering reliable, efficient, and sustainable solar energy solutions. From residential installations to commercial systems, we help you harness the power of the sun and reduce your energy bills while protecting the planet.</p>
+                        <p>At KSKY, we’re committed to delivering reliable, efficient, and sustainable solar energy solutions. From residential installations to commercial systems, we help you harness the power of the sun and reduce your energy bills while protecting the planet.</p>
 
                         <div class="social-icons mb-sm-30" style="background-size: cover; background-repeat: no-repeat;">
                             <a href="/"><i class="fa-brands fa-facebook-f"></i></a>
@@ -1132,7 +1132,7 @@
                             <div class="fw-bold text-white d-flex align-items-center" style="background-size: cover; background-repeat: no-repeat;">
                                 <i class="icofont-envelope me-2 id-color"></i><span>Email Us</span>
                             </div>
-                            support@solaria.com
+                            support@ksky.vn
                         </div>
                     </div>
                 </div>
@@ -1144,7 +1144,7 @@
                         <div class="col-md-12" style="background-size: cover; background-repeat: no-repeat;">
                             <div class="de-flex" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="de-flex-col" style="background-size: cover; background-repeat: no-repeat;">
-                                    © 2025 - Solaria by Designesia
+                                    © 2025 - KSKY
                                 </div>
                                 <ul class="menu-simple">
                                     <li><a href="/">Terms &amp; Conditions</a></li>
@@ -1172,7 +1172,7 @@
         </div>
 
         <div id="extra-content" class="wow animated" style="background-size: cover; background-repeat: no-repeat; visibility: visible;">
-            <img src="/demo/lib/logo-white.webp" class="w-150px" alt="">
+            <img src="/demo/images/brand/logo-white.png" class="w-150px" alt="">
 
             <div class="spacer-30-line" style="background-size: cover; background-repeat: no-repeat;"></div>
 
@@ -1191,12 +1191,12 @@
             <h5>Contact Us</h5>
             <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-clock-time me-2 op-5"></i>Monday - Friday 08.00 - 18.00</div>
             <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-location-pin me-2 op-5"></i>100 Solar Ave, San Diego, CA </div>
-            <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-envelope me-2 op-5"></i>support@solaria.com</div>
+            <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-envelope me-2 op-5"></i>support@ksky.vn</div>
 
             <div class="spacer-30-line" style="background-size: cover; background-repeat: no-repeat;"></div>
 
             <h5>About Us</h5>
-            <p>At Solaria, we’re committed to delivering reliable, efficient, and sustainable solar energy solutions. From residential installations to commercial systems, we help you harness the power of the sun and reduce your energy bills while protecting the planet.</p>
+            <p>At KSKY, we’re committed to delivering reliable, efficient, and sustainable solar energy solutions. From residential installations to commercial systems, we help you harness the power of the sun and reduce your energy bills while protecting the planet.</p>
 
             <div class="social-icons" style="background-size: cover; background-repeat: no-repeat;">
                 <a href="/"><i class="fa-brands fa-facebook-f"></i></a>

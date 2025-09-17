@@ -447,7 +447,7 @@ header.smaller.scroll-light #mainmenu li.has-child:after {
 }
 
 div#logo img{
-  max-width: var(--logo-width);
+  max-width: 80px;
 }
 
 .logo-footer{
