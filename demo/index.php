@@ -1155,6 +1155,11 @@
                     </div>
                 </div>
             </div>
+
+            <div class="abs w-50 end-0 bottom-0 op-3" style="background-size: cover; background-repeat: no-repeat;">
+                <img src="/demo/lib/c1.webp" class="w-100 rtl-hide wow fadeInRight" data-wow-duration="2s" alt="" style="visibility: hidden; animation-duration: 2s; animation-name: none;">
+                <img src="/demo/lib/c1-flip.webp" class="w-100 rtl-show wow fadeInLeft animated" data-wow-duration="2s" alt="" style="visibility: visible; animation-duration: 2s; animation-name: fadeInLeft;">
+            </div>
         </footer>
         <!-- footer end -->
     </div>
@@ -1200,18 +1205,6 @@
                 <a href="/"><i class="fa-brands fa-youtube"></i></a>
                 <a href="/"><i class="fa-brands fa-whatsapp"></i></a>
             </div>
-        </div>
-    </div>
-
-    <div id="selector" style="background-size: cover; background-repeat: no-repeat;">
-        <div id="demo-rtl" class="sc-opt" style="background-size: cover; background-repeat: no-repeat;">
-            <div class="sc-icon" style="background-size: cover; background-repeat: no-repeat;">RTL</div><span class="sc-val">Click to Enable</span>
-        </div>
-        <div class="sc-opt sc-mt" style="background-size: cover; background-repeat: no-repeat;">
-            <div class="sc-icon" style="background-size: cover; background-repeat: no-repeat;"><i class="fa fa-eyedropper"></i></div>
-            <span class="opt tc1 active" data-color="scheme-1"></span>
-            <span class="opt tc2" data-color="scheme-2"></span>
-            <span class="opt tc3" data-color="scheme-3"></span>
         </div>
     </div>
 
