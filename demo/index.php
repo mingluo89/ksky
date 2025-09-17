@@ -224,7 +224,7 @@
                     <div class="swiper-wrapper" id="swiper-wrapper-5650891081885a012" aria-live="off" style="background-size: cover; background-repeat: no-repeat; transition-duration: 0ms; transition-delay: 0ms;">
                         <!-- Slides -->
                         <div class="swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" role="group" aria-label="1 / 2" style="width: 1356px; opacity: 1; transform: translate3d(0px, 0px, 0px); background-size: cover; background-repeat: no-repeat; transition-duration: 0ms;">
-                            <div class="swiper-inner bgcustom" data-bgimage="url(/demo/images/slider/3.jpg) center" style="background: url(&quot;images/slider/3.webp&quot;) center center / cover no-repeat;">
+                            <div class="swiper-inner bgcustom" data-bgimage="url(/demo/images/slider/3.jpg?v=2) center" style="background: url(&quot;images/slider/3.webp&quot;) center center / cover no-repeat;">
                                 <div class="sw-overlay op-3" style="background-size: cover; background-repeat: no-repeat;"></div>
                                 <div class="gradient-edge-top op-8" style="background-size: cover; background-repeat: no-repeat;"></div>
                             </div>
@@ -233,7 +233,7 @@
 
                         <!-- Slides -->
                         <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 2" style="width: 1356px; opacity: 0; transform: translate3d(-1356px, 0px, 0px); background-size: cover; background-repeat: no-repeat; transition-duration: 0ms;">
-                            <div class="swiper-inner bgcustom" data-bgimage="url(/demo/images/slider/4.jpg) center" style="background: url(&quot;images/slider/4.webp&quot;) center center / cover no-repeat;">
+                            <div class="swiper-inner bgcustom" data-bgimage="url(/demo/images/slider/4.jpg?v=2) center" style="background: url(&quot;images/slider/4.webp&quot;) center center / cover no-repeat;">
                                 <div class="sw-overlay op-3" style="background-size: cover; background-repeat: no-repeat;"></div>
                                 <div class="gradient-edge-top op-8" style="background-size: cover; background-repeat: no-repeat;"></div>
                             </div>
