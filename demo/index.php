@@ -164,7 +164,7 @@
 
                             <div class="col-lg-7 text-center" style="background-size: cover; background-repeat: no-repeat;">
                                 <div class="spacer-double" style="background-size: cover; background-repeat: no-repeat;"></div>
-                                <h2>Giải pháp công nghệ & hệ thống cho doanh nghiệp hiện đại</h2>
+                                <h1 style="font-size: 32px !important;">Giải pháp công nghệ & hệ thống cho doanh nghiệp hiện đại</h1>
                                 <p>Công ty TNHH KSKY là đơn vị cung cấp giải pháp công nghệ và hệ thống tích hợp cho doanh nghiệp, từ hạ tầng điện – mạng – thiết bị đến phát triển hệ thống camera an ninh và bảo trì hệ thống. Với đội ngũ giàu kinh nghiệm, KSKY cam kết mang đến giải pháp đồng bộ, an toàn và tối ưu chi phí, giúp doanh nghiệp vận hành hiệu quả và phát triển bền vững.</p>
                                 <a class="btn-main fx-slide" href="https://ksky.vn/get-a-quote.html" data-hover="Get Started"><span>Get Started</span></a>
                             </div>
@@ -179,7 +179,7 @@
                                 <div class="p-4 bg-blur rounded-1 h-100" style="background-size: cover; background-repeat: no-repeat;">
                                     <div class="row g-4 align-items-center" style="background-size: cover; background-repeat: no-repeat;">
                                         <div class="col-lg-6" style="background-size: cover; background-repeat: no-repeat;">
-                                            <img src="/demo/lib/cst-1.webp" class="w-100 rounded-1" alt="">
+                                            <img src="/demo/lib/cst-1.jpg" class="w-100 rounded-1" alt="">
                                         </div>
                                         <div class="col-lg-6" style="background-size: cover; background-repeat: no-repeat;">
                                             <h3>When Sustainability Meets Style</h3>
@@ -226,7 +226,7 @@
                     <div class="swiper-wrapper" id="swiper-wrapper-5650891081885a012" aria-live="off" style="background-size: cover; background-repeat: no-repeat; transition-duration: 0ms; transition-delay: 0ms;">
                         <!-- Slides -->
                         <div class="swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" role="group" aria-label="1 / 2" style="width: 1356px; opacity: 1; transform: translate3d(0px, 0px, 0px); background-size: cover; background-repeat: no-repeat; transition-duration: 0ms;">
-                            <div class="swiper-inner bgcustom" data-bgimage="url(/demo/images/slider/3.webp) center" style="background: url(&quot;images/slider/3.webp&quot;) center center / cover no-repeat;">
+                            <div class="swiper-inner bgcustom" data-bgimage="url(/demo/images/slider/3.jpg) center" style="background: url(&quot;images/slider/3.webp&quot;) center center / cover no-repeat;">
                                 <div class="sw-overlay op-3" style="background-size: cover; background-repeat: no-repeat;"></div>
                                 <div class="gradient-edge-top op-8" style="background-size: cover; background-repeat: no-repeat;"></div>
                             </div>
@@ -235,7 +235,7 @@
 
                         <!-- Slides -->
                         <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 2" style="width: 1356px; opacity: 0; transform: translate3d(-1356px, 0px, 0px); background-size: cover; background-repeat: no-repeat; transition-duration: 0ms;">
-                            <div class="swiper-inner bgcustom" data-bgimage="url(/demo/images/slider/4.webp) center" style="background: url(&quot;images/slider/4.webp&quot;) center center / cover no-repeat;">
+                            <div class="swiper-inner bgcustom" data-bgimage="url(/demo/images/slider/4.jpg) center" style="background: url(&quot;images/slider/4.webp&quot;) center center / cover no-repeat;">
                                 <div class="sw-overlay op-3" style="background-size: cover; background-repeat: no-repeat;"></div>
                                 <div class="gradient-edge-top op-8" style="background-size: cover; background-repeat: no-repeat;"></div>
                             </div>
