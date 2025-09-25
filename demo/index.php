@@ -1,172 +1,19 @@
-<!DOCTYPE html>
-<html lang="vn">
-
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>KSKY</title>
-    <link rel="icon" href="/demo/images/brand/logo.png" type="image/gif" sizes="16x16">
-
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="KSKY" name="description">
-    <meta content="KSKY" name="keywords">
-    <meta content="KSKY" name="author">
-
-    <!-- Open Graph -->
-    <meta property="og:title" content="KSKY - Giải pháp Công nghệ & Hệ thống cho doanh nghiệp hiện đại">
-    <meta property="og:description" content="KSKY đồng hành số hoá - từ hạ tầng điện & IoT, mạng, máy chủ đến phần mềm web/app và cổng thông tin.">
-    <meta property="og:image" content="/demo/images/brand/logo.png">
-    <meta property="og:url" content="https://ksky.vn">
-    <meta property="og:type" content="website">
-
-    <!-- Icofont -->
-    <link rel="stylesheet" href="/demo/assets/css/icofont.min.css">
-
-    <!-- Font awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
-    <link href="/demo/lib/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap">
-    <link href="/demo/lib/plugins.css" rel="stylesheet" type="text/css">
-    <link href="/demo/lib/swiper.css" rel="stylesheet" type="text/css">
-    <link href="/demo/lib/style.css?v=4" rel="stylesheet" type="text/css">
-    <!-- color scheme -->
-    <link id="colors" href="/demo/lib/scheme-1.css?v=3" rel="stylesheet" type="text/css">
-</head>
+<?php include __DIR__ . "/partials/head.php"; ?>
 
 <body style="background-size: cover; background-repeat: no-repeat;">
     <div id="wrapper" style="background-size: cover; background-repeat: no-repeat;">
         <a href="/#" id="back-to-top"></a>
 
-        <!-- preloader begin -->
-        <div id="de-loader" style="background-size: cover; background-repeat: no-repeat;">
-            <div class="lds-roller" style="background-size: cover; background-repeat: no-repeat;">
-                <div style="background-size: cover; background-repeat: no-repeat;"></div>
-                <div style="background-size: cover; background-repeat: no-repeat;"></div>
-                <div style="background-size: cover; background-repeat: no-repeat;"></div>
-                <div style="background-size: cover; background-repeat: no-repeat;"></div>
-                <div style="background-size: cover; background-repeat: no-repeat;"></div>
-                <div style="background-size: cover; background-repeat: no-repeat;"></div>
-                <div style="background-size: cover; background-repeat: no-repeat;"></div>
-                <div style="background-size: cover; background-repeat: no-repeat;"></div>
-            </div>
-        </div>
-        <!-- preloader end -->
+        <?php include __DIR__ . "/partials/preloader.php"; ?>
 
-        <!-- header begin -->
-        <header class="transparent">
-            <div id="topbar" style="background-size: cover; background-repeat: no-repeat;">
-                <div class="container" style="background-size: cover; background-repeat: no-repeat;">
-                    <div class="row" style="background-size: cover; background-repeat: no-repeat;">
-                        <div class="col-lg-12" style="background-size: cover; background-repeat: no-repeat;">
-                            <div class="d-flex justify-content-between xs-hide" style="background-size: cover; background-repeat: no-repeat;">
-                                <div class="d-flex" style="background-size: cover; background-repeat: no-repeat;">
-                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-location-pin"></i>316 Lê Văn Sỹ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, Việt Nam</a></div>
-                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-phone"></i>0981776666</a></div>
-                                    <div class="topbar-widget me-5" style="background-size: cover; background-repeat: no-repeat;"><a href="/"><i class="icofont-envelope"></i>admin@ksky.vn</a></div>
-                                </div>
-
-                                <div class="d-flex" style="background-size: cover; background-repeat: no-repeat;">
-                                    <div class="social-icons" style="background-size: cover; background-repeat: no-repeat;">
-                                        <a href="/"><i class="fa-brands fa-facebook fa-lg"></i></a>
-                                        <a href="/"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
-                                        <a href="/"><i class="fa-brands fa-youtube fa-lg"></i></a>
-                                        <a href="/"><i class="fa-brands fa-pinterest fa-lg"></i></a>
-                                        <a href="/"><i class="fa-brands fa-instagram fa-lg"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clearfix" style="background-size: cover; background-repeat: no-repeat;"></div>
-                </div>
-            </div>
-
-            <div class="container" style="background-size: cover; background-repeat: no-repeat;">
-                <div class="row" style="background-size: cover; background-repeat: no-repeat;">
-                    <div class="col-md-12" style="background-size: cover; background-repeat: no-repeat;">
-                        <div class="de-flex sm-pt0" style="background-size: cover; background-repeat: no-repeat;">
-                            <div class="de-flex-col" style="background-size: cover; background-repeat: no-repeat;">
-                                <!-- logo begin -->
-                                <div id="logo" style="background-size: cover; background-repeat: no-repeat;">
-                                    <a href="/">
-                                        <img class="logo-main" src="/demo/images/brand/logo-white.png" alt="">
-                                        <img class="logo-mobile" src="/demo/images/brand/logo-white.png" alt="">
-                                    </a>
-                                </div>
-                                <!-- logo end -->
-                            </div>
-                            <div class="de-flex-col header-col-mid" style="background-size: cover; background-repeat: no-repeat;">
-                                <!-- mainemenu begin -->
-                                <ul id="mainmenu">
-                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="/">Trang chủ</a><span></span>
-                                        <ul>
-                                            <li><a href="/">Homepage 1</a></li>
-                                            <li><a href="https://ksky.vn/homepage-2.html">Homepage 2</a></li>
-                                            <li><a href="https://ksky.vn/homepage-3.html">Homepage 3</a></li>
-                                            <li><a href="https://ksky.vn/homepage-4.html">Homepage 4</a></li>
-                                            <li><a href="https://ksky.vn/homepage-5.html">Homepage 5</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="https://ksky.vn/services.html">Dịch vụ</a><span></span>
-                                        <ul>
-                                            <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-may-phat-dien">Bảo trì máy phát điện</a></li>
-                                            <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-may-lanh">Bảo trì máy lạnh</a></li>
-                                            <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-he-thong-cntt">Bảo trì hệ thống CNTT</a></li>
-                                            <li><a href="https://ksky.vn/service?name=dich-vu-lap-dat-he-thong-camera">Hệ thống camera</a></li>
-                                            <li><a href="https://ksky.vn/service?name=dich-vu-cap-quang">Cáp quang</a></li>
-
-                                            <li><a href="https://ksky.vn/service?name=thiet-bi-camera-an-ninh">Thiết bị camera an ninh</a></li>
-                                            <li><a href="https://ksky.vn/service?name=thiet-bi-bao-dong-bao-chay">Thiết bị báo động - báo cháy</a></li>
-                                            <li><a href="https://ksky.vn/service?name=thiet-bi-van-phong-gia-dinh">Thiết bị Văn phòng - Gia đình</a></li>
-                                            <li><a href="https://ksky.vn/service?name=thiet-bi-hoi-nghi-truyen-hinh">Thiết bị hội nghị truyền hình</a></li>
-                                            <li><a href="https://ksky.vn/service?name=thiet-bi-vien-thong">Thiết bị viễn thông</a></li>
-                                            <li><a href="https://ksky.vn/service?name=thiet-bi-so-cong-nghe">Thiết bị số - Công nghệ</a></li>
-                                            <li><a href="https://ksky.vn/service?name=thiet-bi-dien-thong-minh">Thiết bị điện thông minh</a></li>
-                                            <li><a href="https://ksky.vn/service?name=thiet-bi-gia-dung">Thiết bị gia dụng</a></li>
-                                            <li><a href="https://ksky.vn/service?name=thiet-bi-dien-tu">Thiết bị điện tử</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="https://ksky.vn/projects.html">Dự án</a><span></span>
-                                        <ul>
-                                            <li><a href="https://ksky.vn/projects.html">Projects Default</a></li>
-                                            <li><a href="https://ksky.vn/projects-slider.html">Projects Slider</a></li>
-                                            <li><a href="https://ksky.vn/projects-carousel.html">Projects Carousel</a></li>
-                                            <li><a href="https://ksky.vn/project-single.html">Project Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children has-child"><a class="menu-item" href="/">Thông tin</a><span></span>
-                                        <ul>
-                                            <li><a href="https://ksky.vn/about.html">Về chúng tôi</a></li>
-                                            <li><a href="https://ksky.vn/team.html">Đội ngũ</a></li>
-                                            <li><a href="https://ksky.vn/testimonials.html">Khách hàng</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a class="menu-item" href="https://ksky.vn/blog.html">Blog</a></li>
-                                    <li><a class="menu-item" href="https://ksky.vn/contact.html">Liên hệ</a></li>
-                                </ul>
-                                <!-- mainmenu end -->
-                            </div>
-                            <div class="de-flex-col" style="background-size: cover; background-repeat: no-repeat;">
-                                <div class="menu_side_area" style="background-size: cover; background-repeat: no-repeat;">
-                                    <a href="https://ksky.vn/bao-gia.html" class="btn-main btn-line fx-slide hover-white" data-hover="Nhận báo giá"><span>Nhận báo giá</span></a>
-                                    <span id="menu-btn"></span>
-                                </div>
-
-                                <div id="btn-extra" style="background-size: cover; background-repeat: no-repeat;">
-                                    <span></span>
-                                    <span></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!-- header end -->
+        <?php include __DIR__ . "/partials/nav-top.php"; ?>
 
         <!-- content begin -->
         <div class="no-bottom no-top" id="content" style="background-size: cover; background-repeat: no-repeat;">
 
             <div id="top" style="background-size: cover; background-repeat: no-repeat;"></div>
 
+            <!-- Section Jumbo -->
             <section id="section-intro" class="text-light relative overflow-hidden mh-700" style="background-size: cover; background-repeat: no-repeat;">
 
                 <div class="relative z-4" style="background-size: cover; background-repeat: no-repeat;">
@@ -245,7 +92,7 @@
 
                         <!-- Slides -->
                         <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 2" style="width: 1356px; opacity: 0; transform: translate3d(-1356px, 0px, 0px); background-size: cover; background-repeat: no-repeat; transition-duration: 0ms;">
-                            <div class="swiper-inner bgcustom" data-bgimage="url(/demo/images/slider/4.jpg?v=2) center" style="background: url(&quot;images/slider/4.webp&quot;) center center / cover no-repeat;">
+                            <div class="swiper-inner bgcustom" data-bgimage="url(/demo/images/slider/4.png?v=2) center" style="background: url(&quot;images/slider/4.webp&quot;) center center / cover no-repeat;">
                                 <div class="sw-overlay op-3" style="background-size: cover; background-repeat: no-repeat;"></div>
                                 <div class="gradient-edge-top op-8" style="background-size: cover; background-repeat: no-repeat;"></div>
                             </div>
@@ -258,6 +105,7 @@
 
             </section>
 
+            <!-- Section About Us -->
             <section style="background-size: cover; background-repeat: no-repeat;">
                 <div class="container" style="background-size: cover; background-repeat: no-repeat;">
                     <div class="row" style="background-size: cover; background-repeat: no-repeat;">
@@ -370,7 +218,6 @@
                     </div>
                 </div>
             </section>
-
 
             <section class="bg-light" style="background-size: cover; background-repeat: no-repeat;">
                 <div class="container" style="background-size: cover; background-repeat: no-repeat;">
@@ -1072,169 +919,11 @@
         </div>
         <!-- content end -->
 
-        <!-- footer begin -->
-        <footer class="section-dark">
-            <div class="container relative z-2" style="background-size: cover; background-repeat: no-repeat;">
-                <div class="row gx-5" style="background-size: cover; background-repeat: no-repeat;">
-                    <div class="col-lg-4 col-sm-6" style="background-size: cover; background-repeat: no-repeat;">
-                        <img src="/demo/images/brand/logo-white.png" class="logo-footer" alt="">
-                        <div class="spacer-20" style="background-size: cover; background-repeat: no-repeat;"></div>
-                        <p>Công ty TNHH KSKY là đơn vị cung cấp giải pháp công nghệ và hệ thống tích hợp cho doanh nghiệp, từ hạ tầng điện – mạng – thiết bị đến phát triển hệ thống camera an ninh và bảo trì hệ thống. Với đội ngũ giàu kinh nghiệm, KSKY cam kết mang đến giải pháp đồng bộ, an toàn và tối ưu chi phí, giúp doanh nghiệp vận hành hiệu quả và phát triển bền vững.</p>
+        <?php include __DIR__ . "/partials/footer.php"; ?>
 
-                        <div class="social-icons mb-sm-30" style="background-size: cover; background-repeat: no-repeat;">
-                            <a href="/"><i class="fa-brands fa-facebook-f"></i></a>
-                            <a href="/"><i class="fa-brands fa-x-twitter"></i></a>
-                            <a href="/"><i class="fa-brands fa-whatsapp"></i></a>
-                            <a href="/"><i class="fa-brands fa-instagram"></i></a>
-                            <a href="/"><i class="fa-brands fa-youtube"></i></a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-5 col-sm-12 order-lg-1 order-sm-2" style="background-size: cover; background-repeat: no-repeat;">
-                        <div class="row" style="background-size: cover; background-repeat: no-repeat;">
-                            <div class="col-lg-7 col-sm-6" style="background-size: cover; background-repeat: no-repeat;">
-                                <div class="widget" style="background-size: cover; background-repeat: no-repeat;">
-                                    <h5>Dịch vụ</h5>
-                                    <ul>
-                                        <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-may-phat-dien">Dịch vụ bảo trì máy phát điện</a></li>
-                                        <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-may-lanh">Dịch vụ bảo trì máy lạnh</a></li>
-                                        <li><a href="https://ksky.vn/service?name=dich-vu-bao-tri-he-thong-cntt">Dịch vụ bảo trì hệ thống CNTT</a></li>
-                                        <li><a href="https://ksky.vn/service?name=dich-vu-lap-dat-he-thong-camera">Dịch vụ lắp đặt hệ thống camera</a></li>
-                                        <li><a href="https://ksky.vn/service?name=dich-vu-cap-quang">Dịch vụ Cáp quang</a></li>
-
-                                        <li><a href="https://ksky.vn/service?name=thiet-bi-camera-an-ninh">Thiết bị camera an ninh</a></li>
-                                        <li><a href="https://ksky.vn/service?name=thiet-bi-bao-dong-bao-chay">Thiết bị báo động - báo cháy</a></li>
-                                        <li><a href="https://ksky.vn/service?name=thiet-bi-van-phong-gia-dinh">Thiết bị Văn phòng - Gia đình</a></li>
-                                        <li><a href="https://ksky.vn/service?name=thiet-bi-hoi-nghi-truyen-hinh">Thiết bị hội nghị truyền hình</a></li>
-                                        <li><a href="https://ksky.vn/service?name=thiet-bi-vien-thong">Thiết bị viễn thông</a></li>
-                                        <li><a href="https://ksky.vn/service?name=thiet-bi-so-cong-nghe">Thiết bị số - Công nghệ</a></li>
-                                        <li><a href="https://ksky.vn/service?name=thiet-bi-dien-thong-minh">Thiết bị điện thông minh</a></li>
-                                        <li><a href="https://ksky.vn/service?name=thiet-bi-gia-dung">Thiết bị gia dụng</a></li>
-                                        <li><a href="https://ksky.vn/service?name=thiet-bi-dien-tu">Thiết bị điện tử</a></li>
-
-                                    </ul>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-5 col-sm-6" style="background-size: cover; background-repeat: no-repeat;">
-                                <div class="widget" style="background-size: cover; background-repeat: no-repeat;">
-                                    <h5>KSKY</h5>
-                                    <ul>
-                                        <li><a href="/">Trang chủ</a></li>
-                                        <li><a href="https://ksky.vn/services.html">Dịch vụ</a></li>
-                                        <li><a href="https://ksky.vn/projects.html">Dự án</a></li>
-                                        <li><a href="https://ksky.vn/about.html">Về KSKY</a></li>
-                                        <li><a href="https://ksky.vn/blog.html">Blog</a></li>
-                                        <li><a href="https://ksky.vn/contact.html">Liên hệ</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-sm-6 order-lg-2 order-sm-1" style="background-size: cover; background-repeat: no-repeat;">
-                        <div class="widget" style="background-size: cover; background-repeat: no-repeat;">
-                            <h5>Liên hệ</h5>
-
-                            <div class="fw-bold text-white d-flex align-items-center" style="background-size: cover; background-repeat: no-repeat;">
-                                <i class="icofont-location-pin me-2 id-color"></i><span>Văn phòng</span>
-                            </div>
-                            316 Lê Văn Sỹ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, Việt Nam
-
-                            <div class="spacer-20" style="background-size: cover; background-repeat: no-repeat;"></div>
-
-                            <div class="fw-bold text-white d-flex align-items-center" style="background-size: cover; background-repeat: no-repeat;">
-                                <i class="icofont-phone me-2 id-color"></i><span>Điện thoại</span>
-                            </div>
-                            0981776666
-
-                            <div class="spacer-20" style="background-size: cover; background-repeat: no-repeat;"></div>
-
-                            <div class="fw-bold text-white d-flex align-items-center" style="background-size: cover; background-repeat: no-repeat;">
-                                <i class="icofont-envelope me-2 id-color"></i><span>Email</span>
-                            </div>
-                            admin@ksky.vn
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="subfooter" style="background-size: cover; background-repeat: no-repeat;">
-                <div class="container" style="background-size: cover; background-repeat: no-repeat;">
-                    <div class="row" style="background-size: cover; background-repeat: no-repeat;">
-                        <div class="col-md-12" style="background-size: cover; background-repeat: no-repeat;">
-                            <div class="de-flex" style="background-size: cover; background-repeat: no-repeat;">
-                                <div class="de-flex-col" style="background-size: cover; background-repeat: no-repeat;">
-                                    © 2025 - KSKY
-                                </div>
-                                <ul class="menu-simple">
-                                    <li><a href="/">Điều khoản</a></li>
-                                    <li><a href="/">Chính sách bảo mật</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="abs w-50 end-0 bottom-0 op-3" style="background-size: cover; background-repeat: no-repeat;">
-                <img src="/demo/lib/c1.webp" class="w-100 rtl-hide wow fadeInRight" data-wow-duration="2s" alt="" style="visibility: hidden; animation-duration: 2s; animation-name: none;">
-                <img src="/demo/lib/c1-flip.webp" class="w-100 rtl-show wow fadeInLeft animated" data-wow-duration="2s" alt="" style="visibility: visible; animation-duration: 2s; animation-name: fadeInLeft;">
-            </div>
-        </footer>
-        <!-- footer end -->
     </div>
 
-    <!-- overlay content begin -->
-    <div id="extra-wrap" class="text-light" style="background-size: cover; background-repeat: no-repeat;">
-        <div id="btn-close" style="background-size: cover; background-repeat: no-repeat;">
-            <span></span>
-            <span></span>
-        </div>
-
-        <div id="extra-content" class="wow animated" style="background-size: cover; background-repeat: no-repeat; visibility: visible;">
-            <img src="/demo/images/brand/logo-white.png" class="w-150px" alt="">
-
-            <div class="spacer-30-line" style="background-size: cover; background-repeat: no-repeat;"></div>
-
-            <h5>Dịch vụ</h5>
-            <ul class="ul-check">
-                <li>Dịch vụ bảo trì máy phát điện</li>
-                <li>Dịch vụ bảo trì máy lạnh</li>
-                <li>Dịch vụ bảo trì hệ thống CNTT</li>
-                <li>Dịch vụ lắp đặt hệ thống camera</li>
-                <li>Dịch vụ Cáp quang</li>
-                <li>Thiết bị camera an ninh</li>
-                <li>Thiết bị báo động - báo cháy</li>
-                <li>Thiết bị Văn phòng - Gia đình</li>
-                <li>Thiết bị hội nghị truyền hình</li>
-                <li>Thiết bị viễn thông</li>
-                <li>Thiết bị số - Công nghệ</li>
-                <li>Thiết bị điện thông minh</li>
-                <li>Thiết bị gia dụng</li>
-                <li>Thiết bị điện tử</li>
-            </ul>
-
-            <div class="spacer-30-line" style="background-size: cover; background-repeat: no-repeat;"></div>
-
-            <h5>Liên hệ</h5>
-            <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-location-pin me-2 op-5"></i>316 Lê Văn Sỹ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, Việt Nam</div>
-            <div style="background-size: cover; background-repeat: no-repeat;"><i class="icofont-envelope me-2 op-5"></i>admin@ksky.vn</div>
-
-            <div class="spacer-30-line" style="background-size: cover; background-repeat: no-repeat;"></div>
-
-            <h5>Về chúng tôi</h5>
-            <p>Công ty TNHH KSKY là đơn vị cung cấp giải pháp công nghệ và hệ thống tích hợp cho doanh nghiệp, từ hạ tầng điện – mạng – thiết bị đến phát triển hệ thống camera an ninh và bảo trì hệ thống. Với đội ngũ giàu kinh nghiệm, KSKY cam kết mang đến giải pháp đồng bộ, an toàn và tối ưu chi phí, giúp doanh nghiệp vận hành hiệu quả và phát triển bền vững.</p>
-
-            <div class="social-icons" style="background-size: cover; background-repeat: no-repeat;">
-                <a href="/"><i class="fa-brands fa-facebook-f"></i></a>
-                <a href="/"><i class="fa-brands fa-x-twitter"></i></a>
-                <a href="/"><i class="fa-brands fa-instagram"></i></a>
-                <a href="/"><i class="fa-brands fa-youtube"></i></a>
-                <a href="/"><i class="fa-brands fa-whatsapp"></i></a>
-            </div>
-        </div>
-    </div>
+    <?php include __DIR__ . "/partials/overlay.php"; ?>
 
     <!-- JS Files -->
     <script src="/demo/lib/plugins.js"></script>
