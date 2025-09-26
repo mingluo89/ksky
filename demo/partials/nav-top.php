@@ -74,15 +74,16 @@
                                     <li><a href="/demo/dich-vu?name=thiet-bi-dien-tu">Thiết bị điện tử</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item-has-children has-child"><a class="menu-item" href="/demo/company">Công Ty</a><span></span>
+                            <li class="menu-item-has-children has-child"><a class="menu-item" href="/demo/cong-ty">Công Ty</a><span></span>
                                 <ul>
-                                    <li><a href="/demo/company">Về chúng tôi</a></li>
-                                    <li><a href="/demo/company/#team">Đội ngũ</a></li>
-                                    <li><a href="/demo/company/#partner">Khách hàng</a></li>
+                                    <li><a href="/demo/cong-ty">Về chúng tôi</a></li>
+                                    <li><a href="/demo/cong-ty/#doi-ngu">Đội ngũ</a></li>
+                                    <li><a href="/demo/cong-ty/#khach-hang">Khách hàng</a></li>
+                                    <li><a href="/demo/cong-ty/#doi-tac">Đối tác</a></li>
                                 </ul>
                             </li>
                             <li><a class="menu-item" href="/demo/blog">Blog</a></li>
-                            <li><a class="menu-item" href="/demo/contact">Liên hệ</a></li>
+                            <li><a class="menu-item" href="/demo/lien-he">Liên hệ</a></li>
                         </ul>
                         <!-- mainmenu end -->
                     </div>

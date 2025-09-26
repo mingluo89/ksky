@@ -1,0 +1,11 @@
+* {
+  --primary-color: #8BD25D;
+  --primary-color-rgb: 139, 210, 93;
+
+  --bg-dark-1: #52B0E7;
+  --bg-dark-1-rgb: 82, 176, 231;
+
+  /* Tối hơn ~20% và ~60% so với bg-dark-1 */
+  --bg-dark-2: #428DB9;
+  --bg-dark-3: #1D3D51;
+}
