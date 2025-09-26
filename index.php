@@ -96,7 +96,7 @@
     <header class="hero position-relative text-white">
         <style>
             :root {
-                --hero-img: url('PUT_IMAGE_URL_HERE');
+                --hero-img: url('https://images.unsplash.com/photo-1560472354-b33ff0c44a43?q=80&w=1926');
             }
 
             .hero {
